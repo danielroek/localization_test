@@ -1,0 +1,33 @@
+{
+  "app_title": "Flutter Demo",
+  "home_page_title": "Start Pagina",
+  "gender": "Geslacht",
+  "name": "Naam",
+  "male": "Man",
+  "female": "Vrouw",
+  "nonBinary": "Non-binair",
+  "hello": {
+    "male": "Hallo meneer {name}",
+    "female": "Hallo mevrouw {name}",
+    "nonBinary": "Hallo ?? {name}",
+    "other": "Hallo ?? {name}"
+  },
+
+  "you_read_x_books": {
+    "zero": "Je hebt geen boeken gelezen",
+    "one": "Je hebt één boek gelezen",
+    "two": "Je hebt twee boek gelezen",
+    "few": "Je hebt {} boeken gelezen",
+    "many": "Je hebt {} boeken gelezen",
+    "other": "Je hebt {} boeken gelezen"
+  },
+  "you_earned_x_euro": "Je hebt €{} verdient",
+  "bonus": "Dit is een samengevoegde",
+  "content": "vertaling",
+  "bonus_content": "@:bonus @:content",
+  "nl": "Nederlands",
+  "ar": "Arabisch",
+  "en": "Engels",
+  "select_language": "Taal selecteren",
+  "cancel": "Annuleren"
+}

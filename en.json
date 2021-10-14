@@ -1,0 +1,33 @@
+{
+  "app_title": "Flutter Demo",
+  "home_page_title": "Home Page",
+  "gender": "Gender",
+  "name": "Name",
+  "male": "Male",
+  "female": "Female",
+  "nonBinary": "Non-binary",
+  "hello": {
+    "male": "Hello Mr. {name}",
+    "female": "Hello Ms. {name}",
+    "nonBinary": "Hello ?? {name}",
+    "other": "Hello ?? {name}"
+  },
+
+  "you_read_x_books": {
+    "zero": "You didn't read any books",
+    "one": "You've read one book",
+    "two": "You've read two books",
+    "few": "You've read {} books",
+    "many": "You've read {} books",
+    "other": "You've read {} books"
+  },
+  "you_earned_x_euro": "You earned €{}",
+  "bonus": "This is a concatenated",
+  "content": "translation",
+  "bonus_content": "@:bonus @:content",
+  "nl": "Dutch",
+  "ar": "Arabic",
+  "en": "English",
+  "select_language": "Select language",
+  "cancel": "Cancel"
+}

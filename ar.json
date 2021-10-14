@@ -1,0 +1,33 @@
+{
+  "app_title": "عرض Flutter",
+  "home_page_title": "الصفحة الرئيسية",
+  "gender": "جنس تذكير أو تأنيث",
+  "name": "اسم",
+  "male": "ذكر",
+  "female": "أنثى",
+  "nonBinary": "غير ثنائي",
+  "hello": {
+    "male": "مرحبا سيد. {name}",
+    "female": "مرحبا انسة {name}",
+    "nonBinary": "أهلا ؟؟ {name}",
+    "other": "أهلا ؟؟ {name}"
+  },
+  "you_read_x_books": {
+    "zero": "أنت لم تقرأ أي كتب",
+    "one": "لقد قرأت كتابًا واحدًا",
+    "two": "لقد قرأت كتابين",
+    "few": "لقد قرأت {} من الكتب",
+    "many": "لقد قرأت {} من الكتب",
+    "other": "لقد قرأت {} من الكتب"
+  },
+  "you_earned_x_euro": "ربحت {} يورو",
+  "bonus": "هذا متسلسل",
+  "content": "ترجمة",
+  "bonus_content": "@:bonus @:content",
+  "nl": "هولندي",
+  "ar": "عربي",
+  "en": "إنجليزي",
+  "select_language": "اختار اللغة",
+  "cancel": "يلغي"
+
+}
